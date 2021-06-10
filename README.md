@@ -6,6 +6,12 @@
 Content-Type: application/json
 ```
 
+## Authentication
+
+```
+$URL?token=api_token
+```
+
 ## Routes
 
 ### Get Analyte
