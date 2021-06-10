@@ -123,7 +123,7 @@ Request
   "validate": true
 }
 ```
-NOTE: the `validate` attribute can set to the
+NOTE: the `validate` attribute can be set to the
 boolean `true` so that Ocean Spray will run sample
 validation. If `validate` is missing, `null`, or any
 value other than the boolean `true`, then Ocean Spray
