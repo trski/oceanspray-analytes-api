@@ -1,5 +1,11 @@
 # Ocean Spray Analytes API
 
+## Headers
+
+```
+Content-Type: application/json
+```
+
 ## Routes
 
 ### Get Analyte
